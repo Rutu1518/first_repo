@@ -6,12 +6,35 @@
 .heading h2{
     text-align: center;
 }
+hr{
+    border: 1px solid;
+}
 .heading h3{
     font-size: 20px;
 }
 .img{
-    /* justify-items: auto;
-     justify-content: center;
-     align-items: center; */
-     margin-left: 15px;
+    
+    
+   
+     border-radius: 10px;
+     height: 200px;
+     width: 270px;
+}
+.menu-bar{
+    align-items: center;
+    margin-bottom: 50px;
+}
+.container{
+    height: 400px;
+    width: 270px;
+    border: 2px solid;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 30px;
+}
+.container b{
+   text-align: center;
+   justify-content: center;
+   font-size: 30px;
+   margin-left: 20px;
 }

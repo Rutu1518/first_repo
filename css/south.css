@@ -1,0 +1,33 @@
+.heading h1{
+    text-align: center;
+}
+hr{
+    border: 1px solid;
+}
+.heading h2{
+    margin-left: 40px;
+}
+.container{
+    height: 300px;
+    width: 200px;
+    border: 2px solid;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 40px;
+    background-color: antiquewhite;
+}
+.img{
+    height: 200px;
+    width: 200px;
+    border-radius: 9px;
+
+}
+span{
+    font-size: 30px;
+    margin-left: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.container b{
+    font-size: 20px;
+}
