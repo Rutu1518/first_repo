@@ -5,7 +5,8 @@
 
  ## Guest Experience:
   Use a theme that is easy to navigate, includes bold call-to-action buttons for ordering and booking, and has plenty of space for large imagery to feature your dishes. Try and find a theme that includes a dedicated section for customer reviews.
-
+ 
+ ![index page](./static/indexoutput.jpg)
 
  ## Contributer
 
