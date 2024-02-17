@@ -1,12 +1,10 @@
-
 .heading h1{
     text-align: center;
 }
 .heading h2{
     margin-left: 40px;
     font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 .container{
     height:300px;
     display: inline-block;
@@ -14,26 +12,16 @@
     border-radius: 10px;
     width: 250px;  
     margin-left: 120px;
-  margin-bottom: 50px;
-  margin-top: 50px;
-
-  
-}
+    margin-bottom: 50px;
+    margin-top: 50px;}
 .img{
-    /* margin-left: 20px; */
-    /* margin-top: 10px; */
     height: 200px;
-    width: 250px;
-    border-radius: 10px;
+     width: 250px;
+     border-radius: 10px;
 }
 .container b{
     font-size: 25px;
-     margin-left: 50px; 
-     /* margin-top: 200px; */
-     /* text-align: center;
-     justify-content: center;
-     justify-items: center;
-     margin: 0 auto; */
+    margin-left: 50px; 
     color: rgb(7, 7, 7);
 }
 hr{
@@ -59,8 +47,7 @@ hr{
 }
 span{
     font-size: 30px;
-   /* margin-left: 10px; */
-   text-align: center;
+    text-align: center;
    justify-content: center;
    align-items: center;
    margin-top: 10px;
@@ -70,6 +57,4 @@ span{
     text-align: center;
     justify-content: center;
     margin-left: 10px;
-    font-size: 20px;
-
-}
+    font-size: 20px;}
